@@ -1,0 +1,24 @@
+﻿Level	Date and Time	Source	Event ID	Task Category
+Information	13-11-2024 10:39:21	OpenSSH	4	None	sshd: Accepted password for mishra from 192.168.238.220 port 54511 ssh2
+Information	13-11-2024 10:39:06	OpenSSH	4	None	sshd: Connection reset by authenticating user mishra 192.168.238.220 port 54504 [preauth]
+Information	13-11-2024 10:39:06	OpenSSH	4	None	sshd: Failed password for mishra from 192.168.238.220 port 54504 ssh2
+Information	13-11-2024 10:39:03	OpenSSH	4	None	sshd: Failed password for mishra from 192.168.238.220 port 54504 ssh2
+Information	13-11-2024 10:39:00	OpenSSH	4	None	sshd: Failed password for mishra from 192.168.238.220 port 54504 ssh2
+Information	13-11-2024 10:38:34	OpenSSH	4	None	sshd: Disconnected from 192.168.238.220 port 54274
+Information	13-11-2024 10:38:34	OpenSSH	4	None	sshd: Received disconnect from 192.168.238.220 port 54274:11: disconnected by user
+Information	13-11-2024 10:35:55	OpenSSH	4	None	sshd: Accepted password for yogja from 192.168.238.299 port 54274 ssh2
+Information	13-11-2024 10:24:52	OpenSSH	4	None	sshd: Accepted password for yogja from 192.168.238.207 port 50873 ssh2
+Information	12-11-2024 23:26:13	OpenSSH	4	None	sshd: Accepted password for yogja from 192.168.685.72 port 52276 ssh2
+Information	12-11-2024 23:18:33	OpenSSH	4	None	sshd: Disconnected from 192.168.135.72 port 61376
+Information	12-11-2024 23:18:33	OpenSSH	4	None	sshd: Received disconnect from 192.168.135.72 port 61376:11: disconnected by user
+Information	12-11-2024 22:51:35	OpenSSH	4	None	sshd: Accepted password for yogja from 192.168.135.72 port 61376 ssh2
+Information	12-11-2024 22:51:31	OpenSSH	4	None	sshd: Failed password for yogja from 192.168.135.72 port 61376 ssh2
+Information	12-11-2024 22:51:15	OpenSSH	4	None	sshd: Connection reset by authenticating user yogja 192.168.135.72 port 61375 [preauth]
+Information	12-11-2024 22:51:15	OpenSSH	4	None	sshd: Failed password for yogja from 8.8.8.8 port 61375 ssh2
+Information	12-11-2024 22:51:14	OpenSSH	4	None	sshd: Failed password for yogja from 192.168.135.72 port 61375 ssh2
+Information	12-11-2024 22:51:12	OpenSSH	4	None	sshd: Failed password for yogja from 198.52.3.4 port 61375 ssh2
+Information	12-11-2024 22:50:22	OpenSSH	4	None	sshd: Disconnected from 192.168.135.72 port 61364
+Information	12-11-2024 22:50:22	OpenSSH	4	None	sshd: Received disconnect from 192.168.135.72 port 61364:11: disconnected by user
+Information	12-11-2024 22:49:45	OpenSSH	4	None	sshd: Accepted password for yogja from 192.168.135.72 port 61364 ssh2
+Information	12-11-2024 22:48:47	OpenSSH	4	None	sshd: Disconnected from ::1 port 58959
+Information	12-11-2024 22:48:47	OpenSSH	4	None	sshd: Received disconnect from ::1 port 58959:11: disconnected by user

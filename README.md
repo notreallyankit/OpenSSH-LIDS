@@ -46,7 +46,7 @@ It detects multiple failed login attempts, tracks the source IP, performs geoloc
 
 ---
 
-## 🪜 Setup & Usage
+## Setup & Usage
 
 1. **Clone the Repository**
    ```bash
